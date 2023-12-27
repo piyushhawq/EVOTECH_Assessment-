@@ -1,6 +1,6 @@
 #EVOTECH_Assessment 
 
-Host Url Link :- https://gregarious-queijadas-505661.netlify.app/
+Host Url Link :- https://hilarious-griffin-2229ae.netlify.app/
 
 When you hit the url you will redirect to home page 
 
