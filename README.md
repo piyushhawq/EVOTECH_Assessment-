@@ -4,7 +4,7 @@ Host Url Link :- https://gregarious-queijadas-505661.netlify.app/
 
 When you hit the url you will redirect to home page 
 
-![Preview  of Login](https://raw.githubusercontent.com/piyushhawq/Images/main/Warehouse%20Management.png)
+![Preview  of Login](https://raw.githubusercontent.com/piyushhawq/Images/main/React%20App%20-%20Google%20Chrome%2012_27_2023%206_24_34%20PM.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
